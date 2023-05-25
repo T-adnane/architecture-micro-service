@@ -13,6 +13,7 @@
 ![localhost](https://github.com/T-adnane/architecture-micro-service/assets/115072337/152f6b93-fec1-4edb-9c21-bf8401d2a97f)
 
 #### => Inventory-Service:
+![Spring_Initializr](https://github.com/T-adnane/architecture-micro-service/assets/115072337/3896193b-bf36-4866-acd8-35e5d3f8b821)
 
 #### => Spring Cloud Gateway:
 

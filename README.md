@@ -18,6 +18,7 @@
 ![localhost](https://github.com/T-adnane/architecture-micro-service/assets/115072337/4c34f04a-fdc9-4592-b197-ee9bdd4b896d)
 
 #### => Spring Cloud Gateway:
+![Spring_Initializr](https://github.com/T-adnane/architecture-micro-service/assets/115072337/2aec82e7-8d85-40d4-a687-8b9b73bdfc3f)
 
 #### => Eureka Discovery
 

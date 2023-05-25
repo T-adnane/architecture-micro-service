@@ -6,7 +6,14 @@
                                                           
      
 # => Première partie :
+#### => Customer-Service:
 
-# => Deuxième Partie :
+#### => Inventory-Service:
 
-# => Troisième Partie :
+#### => Spring Cloud Gateway:
+
+#### => Eureka Discovery
+
+# => Deuxième Partie (Billing Service avec Open Feign Rest Client) :
+
+# => Troisième Partie (Créer un Client Angular) :

@@ -7,6 +7,10 @@
      
 # => Première partie :
 #### => Customer-Service:
+![Spring_Initializr](https://github.com/T-adnane/architecture-micro-service/assets/115072337/d2e7d09d-ce34-45d1-92fd-bfdd5d11c363)
+![terminal](https://github.com/T-adnane/architecture-micro-service/assets/115072337/eb2fdd2c-47d0-4b79-925c-deedb4875093)
+![localhost](https://github.com/T-adnane/architecture-micro-service/assets/115072337/90821df5-d093-463d-b3f8-b53ec03aea9b)
+![localhost](https://github.com/T-adnane/architecture-micro-service/assets/115072337/152f6b93-fec1-4edb-9c21-bf8401d2a97f)
 
 #### => Inventory-Service:
 

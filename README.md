@@ -24,6 +24,9 @@
 ![localhost](https://github.com/T-adnane/architecture-micro-service/assets/115072337/de61c694-9830-4099-b58c-9fa2df7e3b0f)
 
 #### => Eureka Discovery
+![Spring_Initializr](https://github.com/T-adnane/architecture-micro-service/assets/115072337/97b826ef-e530-4ec1-8efa-98cc8d2c46fd)
+![localhost](https://github.com/T-adnane/architecture-micro-service/assets/115072337/261ce600-e4eb-498e-8d75-ae7c77c577e4)
+![localhost](https://github.com/T-adnane/architecture-micro-service/assets/115072337/1d3f9211-586d-4adb-a2a3-55cbc98c4f8f)
 
 # => Deuxième Partie (Billing Service avec Open Feign Rest Client) :
 

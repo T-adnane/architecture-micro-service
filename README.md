@@ -33,5 +33,3 @@
 ![localhost](https://github.com/T-adnane/architecture-micro-service/assets/115072337/89fc8160-f0cf-4c5c-8954-3c1fe1ce61b1)
 ![localhost](https://github.com/T-adnane/architecture-micro-service/assets/115072337/c0643592-791a-40b5-80be-cef70d82026b)
 ![localhost](https://github.com/T-adnane/architecture-micro-service/assets/115072337/49cad106-9685-4ff5-912d-acf398bb86bb)
-
-# => Troisième Partie (Créer un Client Angular) :

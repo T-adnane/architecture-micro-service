@@ -29,5 +29,7 @@
 ![localhost](https://github.com/T-adnane/architecture-micro-service/assets/115072337/1d3f9211-586d-4adb-a2a3-55cbc98c4f8f)
 
 # => Deuxième Partie (Billing Service avec Open Feign Rest Client) :
+![localhost](https://github.com/T-adnane/architecture-micro-service/assets/115072337/765b8400-1723-4e91-a688-a2759aae94e0)
+![localhost](https://github.com/T-adnane/architecture-micro-service/assets/115072337/89fc8160-f0cf-4c5c-8954-3c1fe1ce61b1)
 
 # => Troisième Partie (Créer un Client Angular) :
